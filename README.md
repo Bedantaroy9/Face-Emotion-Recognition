@@ -15,19 +15,22 @@
 1 Clone the repository:
 
 ```
-git clone https://github.com/your-username/face-recognition-attendance.git
+https://github.com/Bedantaroy9/Face-Emotion-Recognition.git
 ```
 
 
 2 Install the dependencies:
 
 Use pip to install required packages:
+```
 pip install opencv-python tensorflow numpy
+```
 
 3 Run the project:
-
-  python emotion_detector.py
-  (Press 'p' to exit the webcam window.)
+```
+python emotion_detector.py
+(Press 'p' to exit the webcam window.)
+```
 
 
 
