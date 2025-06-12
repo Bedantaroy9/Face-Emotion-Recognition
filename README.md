@@ -1,5 +1,7 @@
  # Real-Time Emotion Detection with Deep Learning
 
+ ![Emotion Detection Demo](demo.png)
+
  A real-time emotion detection app using a Convolutional Neural Network (CNN) trained on grayscale facial images, integrated with OpenCV for webcam-based facial recognition.
 
 ##  Features
